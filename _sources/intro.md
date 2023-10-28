@@ -1,11 +1,9 @@
 # BIENVENIDO A MI LIBRO GIT EN UTPL
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Mi nombre es Eduardo Alejandro Solorzano Pozo, estudiante de la UNIVERSIDAD TECNICA PARTICULAR DE LOJA cursando el 6to semestre, hemos desarrollado esta practica en github con el repositorio local en el equipo, el cual se ha realizado paso a paso lo indicado por el docente en los video sy clases impartidas.
 
-Check out the content pages bundled with this sample book to see more.
+Saludos Cordiales
+
 
 ```{tableofcontents}
 ```
